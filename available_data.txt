@@ -1,0 +1,47 @@
+Parameters:
+Cumulative precipitation over 15 minutes
+Instantaneous air temperature at 2 meters above the ground
+Instantaneous relative humidity at 2 meters above the ground
+Average wind direction over the last 10 minutes at 10 meters above the ground
+Vector average wind direction over the last 15 minutes at 10 meters above the ground
+Vector average wind speed over the last 15 minutes at 10 meters above the ground
+Scalar average wind speed over the last 15 minutes at 10 meters above the ground
+
+Available Sensors per Station:
+Civago: precipitation, temperature
+Ospitaletto: precipitation, temperature
+Lago Paduli: precipitation, temperature
+Sassotorno: precipitation, temperature
+Doccia di Fiumalbo: precipitation, temperature
+Ligonchio: precipitation, temperature
+Frassinoro: precipitation, temperature
+Febbio: humidity, wind direction, precipitation, temperature
+Collagna: precipitation, temperature
+Lago Scaffaiolo Nivo: temperature
+Lago Scaffaiolo: wind direction, precipitation, temperature
+Villa Minozzo: precipitation, temperature
+Passo delle Radici: precipitation, temperature
+Sestola: precipitation, temperature
+Pievepelago: precipitation, temperature
+Succiso: precipitation
+Isola Palanzano: precipitation, temperature
+Ramiseto: precipitation, temperature
+Monteacuto delle Alpi: precipitation, temperature
+Piandelagotti: precipitation, temperature
+Lago Pratignano: precipitation, temperature
+
+Precipitation Intensity:
+Rain:
+Light rain: 1–2 mm/h
+Gentle rain: 2–4 mm/h
+Moderate rain: 4–6 mm/h
+Heavy rain: > 6 mm/h
+Downpour: > 10 mm/h
+Torrential rain: > 30 mm/h
+Wind Speed Categories:
+Calm: 0–5 km/h
+Light breeze: 6–19 km/h
+Moderate wind: 20–38 km/h
+Strong wind: 39–61 km/h
+Gale: 62–88 km/h
+Storm: > 89 km/h
