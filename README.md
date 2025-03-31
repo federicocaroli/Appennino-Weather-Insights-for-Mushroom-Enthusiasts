@@ -47,10 +47,10 @@ Below are some previews of the web dashboard:
    ![Weather Data Viewer](Dashboard/screenshots/weather_data_viewer.jpg)
 
 3. **Map of the Weather Stations**  
-   ![Map](Dashboard/screenshots/interesting_mushrooms.jpg)
+   ![Map](Dashboard/screenshots/weather_stations_map.jpg)
 
 4. **Educational Mushroom Guide**  
-   ![Mushroom Guide](Dashboard/screenshots/weather_stations_map.jpg)
+   ![Mushroom Guide](Dashboard/screenshots/interesting_mushrooms.jpg)
 
 ---
 
